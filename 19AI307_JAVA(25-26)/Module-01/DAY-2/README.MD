@@ -39,11 +39,11 @@ To implement conditional logic in Java using nested if-else statements and the m
 
 7.Check if dnaNumber ends in 4 ( dnaNumber % 10 == 4 ).
 
-   If true, print "Accepted".
+  - If true, print "Accepted".
 
-   If false, print "Suspect".
+   -If false, print "Suspect".
 
-   If the number is not even (it's odd), print "Rejected".
+  - If the number is not even (it's odd), print "Rejected".
 
 8. End the program.
 
@@ -76,5 +76,6 @@ RegisterNumber:
 
 
 ## RESULT:
+
 
 
