@@ -11,13 +11,44 @@ If the DNA is odd, they reject it.
 
 ## For example:
 
+```
+---------------------------
+Input	       Result 
+64        |  Accepted
+-----------------------------
+
+```
 ## AIM:
+
+To implement conditional logic in Java using nested if-else statements and the modulus operator to solve a classification problem.
 
 
 ## ALGORITHM :
-1.	Start the program.
-2.	Import the necessary package 'java.util'
-3.	
+
+1.Start the program.
+
+2.Import the java.util.Scanner class for user input.
+
+3.Create a Scanner object to read from the console.
+
+4.Read the integer dnaNumber from the user.
+
+5.Check if dnaNumber is even ( dnaNumber % 2 == 0 ).
+
+6.If it is even, enter a nested check:
+
+7.Check if dnaNumber ends in 4 ( dnaNumber % 10 == 4 ).
+
+   If true, print "Accepted".
+
+   If false, print "Suspect".
+
+   If the number is not even (it's odd), print "Rejected".
+
+8. End the program.
+
+
+
 
 
 
@@ -45,4 +76,5 @@ RegisterNumber:
 
 
 ## RESULT:
+
 
