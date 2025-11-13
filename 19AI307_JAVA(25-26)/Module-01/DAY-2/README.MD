@@ -1,7 +1,15 @@
 # Ex.No:1(B) CONDITIONAL STATEMENT
 
 ## QUESTION:
+Aliens scan DNA numbers:
 
+If the DNA number is divisible by 2 and ends in 4, they accept it.
+
+If the DNA number is divisible by 2 but ends in anything else, it’s a suspect.
+
+If the DNA is odd, they reject it.
+
+## For example:
 
 ## AIM:
 
@@ -37,3 +45,4 @@ RegisterNumber:
 
 
 ## RESULT:
+
