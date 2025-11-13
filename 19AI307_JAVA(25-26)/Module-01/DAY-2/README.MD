@@ -41,41 +41,55 @@ To implement conditional logic in Java using nested if-else statements and the m
 
   - If true, print "Accepted".
 
-   -If false, print "Suspect".
+  - If false, print "Suspect".
 
   - If the number is not even (it's odd), print "Rejected".
 
 8. End the program.
 
 
-
-
-
-
-
-
 ## PROGRAM:
  ```
-/*
+
 Program to implement a conditional statement using Java
-Developed by: 
-RegisterNumber:  
-*/
+Developed by:  Ganesh K
+RegisterNumber:  212222060057
+
 ```
 
 ## SOURCE CODE:
 
+```java
+import java.util.Scanner;
 
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int dnaNumber = scanner.nextInt();
 
+        if (dnaNumber % 2 == 0) {
+            if (dnaNumber % 10 == 4) {
+                System.out.println("Accepted");
+            } else {
+                System.out.println("Suspect");
+            }
+        } else {
+            System.out.println("Rejected");
+        }
 
-
+    }
+}
+```
 
 
 ## OUTPUT:
 
 
 
+
+
 ## RESULT:
+
 
 
 
