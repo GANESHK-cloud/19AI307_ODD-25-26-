@@ -80,7 +80,9 @@ public class Main {
 ## OUTPUT:
 
 
+<img width="1244" height="831" alt="image" src="https://github.com/user-attachments/assets/abf1f1ac-c78a-4430-959f-41a5a22b725f" />
 
 ## RESULT:
 
 Thus, the Java program to count even and odd numbers in an array was executed successfully.
+
