@@ -70,11 +70,13 @@ public class Main {
 
 ## OUTPUT:
 
+<img width="595" height="211" alt="Screenshot 2025-11-17 002153" src="https://github.com/user-attachments/assets/894923c6-f8b8-4923-83ce-d35f96eb8116" />
 
 
 ## RESULT:
 
 Thus, the Java program to check whether a string is a palindrome was executed successfully.
+
 
 
 
