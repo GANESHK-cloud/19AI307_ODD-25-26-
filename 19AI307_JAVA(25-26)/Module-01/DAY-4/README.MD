@@ -5,6 +5,7 @@
 Write a Java Program to count Even and Odd Numbers in an Array.
 
 For example:
+```
 ----------------------------------------
 Input	       Result 
 5         |  Number of even elements: 2
@@ -14,6 +15,8 @@ Input	       Result 
 4
 5        
 -----------------------------------------
+
+```
 
 ## AIM:
 
@@ -85,4 +88,5 @@ public class Main {
 ## RESULT:
 
 Thus, the Java program to count even and odd numbers in an array was executed successfully.
+
 
