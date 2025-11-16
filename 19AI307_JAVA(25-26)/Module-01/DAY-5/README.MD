@@ -19,7 +19,7 @@ To write a Java program to verify if a string reads the same forward and backwar
 
 ## ALGORITHM :
 
--> Start the program.
+- Start the program.
 
 2.Import the package java.util.Scanner.
 
@@ -75,3 +75,4 @@ public class Main {
 ## RESULT:
 
 Thus, the Java program to check whether a string is a palindrome was executed successfully.
+
