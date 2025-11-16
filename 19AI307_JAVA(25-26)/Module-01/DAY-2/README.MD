@@ -84,16 +84,14 @@ public class Main {
 
 ## OUTPUT:
 
-https://github.com/<username>/<repo>/blob/main/19AI307_JAVA(25-26)/Screenshot 2025-11-16 123601.png
-
-
-
+<img width="1235" height="476" alt="Screenshot 2025-11-16 123601" src="https://github.com/user-attachments/assets/d34b3a42-80cd-4c93-a256-f74f86f91358" />
 
 
 ## RESULT:
 
 
 The program was successfully developed and executed.It correctly classifies the given DNA number as Accepted, Suspect, or Rejected based on the specified conditional rules.
+
 
 
 
