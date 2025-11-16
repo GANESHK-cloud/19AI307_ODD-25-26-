@@ -63,8 +63,9 @@ public class Main {
 
 ## OUTPUT:
 
-
+<img width="1239" height="414" alt="Screenshot 2025-11-16 234519" src="https://github.com/user-attachments/assets/37512c1a-c072-44f3-b07d-04778c18169b" />
 
 ## RESULT:
 
 Thus, the Java program to calculate the factorial of a number using a looping statement was executed successfully.
+
