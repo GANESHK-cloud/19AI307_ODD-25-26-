@@ -6,12 +6,13 @@ When staticMethod() is called, it should print  "I am static".
 When nonStaticMethod() is called, it should print  "I am non-static".
 
 Example:
+```
 -----------------
 Result:
 I am static
 I am non-static
 ------------------
-
+```
 
 ## AIM:
 To understand how to define and use static and non-static methods in Java and call them from the main method.
@@ -37,8 +38,7 @@ RegisterNumber:  212222060057
 ```
 
 ## SOURCE CODE:
-
-
+```java
 public class Test {
     static void staticMethod() {
         System.out.println("I am static");
@@ -55,12 +55,13 @@ public class Test {
     }
 }
 
-
-
+```
 
 ## OUTPUT:
 
-
+<img width="1181" height="340" alt="image" src="https://github.com/user-attachments/assets/30046955-0a64-49ec-a597-5af528bb35ce" />
 
 ## RESULT:
+
+Thus, the Java program demonstrating static and non-static methods was executed successfully.
 
