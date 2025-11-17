@@ -44,6 +44,7 @@ RegisterNumber: 212222060057
 
 ## SOURCE CODE:
 ```java
+
 import java.util.Scanner;
 
 interface WeatherBot {
@@ -95,6 +96,7 @@ public class Main {
 
 ## RESULT:
 The program predicts weather conditions using interface implementation and method overriding.
+
 
 
 
