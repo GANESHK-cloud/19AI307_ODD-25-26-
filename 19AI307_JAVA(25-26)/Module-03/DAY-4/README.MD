@@ -89,7 +89,6 @@ public class Main {
         sc.close();
     }
 }
-
 ```
 
 ## OUTPUT:
@@ -98,6 +97,7 @@ public class Main {
 
 ## RESULT:
 The program predicts weather conditions using interface implementation and method overriding.
+
 
 
 
