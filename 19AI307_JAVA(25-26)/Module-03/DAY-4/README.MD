@@ -23,7 +23,7 @@ Prediction as a string.
 Input    Result 
 35 1    | HOT
 --------------------
-
+```
 
 ## AIM:
 To implement weather prediction using interfaces with two bots — SunBot and RainBot.
@@ -44,7 +44,7 @@ RegisterNumber: 212222060057
 
 ## SOURCE CODE:
 
-```
+```java
 import java.util.Scanner;
 
 interface WeatherBot {
@@ -96,6 +96,7 @@ public class Main {
 
 ## RESULT:
 The program predicts weather conditions using interface implementation and method overriding.
+
 
 
 
