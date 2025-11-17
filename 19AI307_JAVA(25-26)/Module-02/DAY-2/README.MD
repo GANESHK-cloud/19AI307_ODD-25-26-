@@ -21,8 +21,8 @@ To understand how to define and use static and non-static methods in Java and ca
 ```
 1.	Start the program.
 2.Create a class containing:
-   - one static method
-   - one non-static method
+   -> one static method
+   -> one non-static method
 3.Static method prints: "I am static".
 4.Non-static method prints: "I am non-static".
 5.Call the static method directly from main().
@@ -65,6 +65,7 @@ public class Test {
 ## RESULT:
 
 Thus, the Java program demonstrating static and non-static methods was executed successfully.
+
 
 
 
