@@ -83,11 +83,11 @@ public class Main {
 
 ## OUTPUT:
 
-
-
+<img width="1172" height="833" alt="image" src="https://github.com/user-attachments/assets/f55dbd68-a8a6-43a7-88f0-1f4d586b2942" />
 
 ## RESULT:
 
 Thus, the Java program to implement Class and Object using a Car class was executed successfully.
+
 
 
