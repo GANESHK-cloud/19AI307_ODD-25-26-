@@ -18,6 +18,7 @@ I am non-static
 To understand how to define and use static and non-static methods in Java and call them from the main method.
 
 ## ALGORITHM :
+
 1.	Start the program.
 2.Create a class containing:
    - one static method
@@ -64,4 +65,5 @@ public class Test {
 ## RESULT:
 
 Thus, the Java program demonstrating static and non-static methods was executed successfully.
+
 
