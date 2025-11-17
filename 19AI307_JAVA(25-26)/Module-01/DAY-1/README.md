@@ -105,8 +105,8 @@ public class Sourcecode {
 <img width="1237" height="433" alt="image" src="https://github.com/user-attachments/assets/3b116eb2-eb16-4746-9485-866a232c508a" />
 
 
-
 ## RESULT
 
 The Java program to demonstrate variables and operators was executed successfully.
+
 
