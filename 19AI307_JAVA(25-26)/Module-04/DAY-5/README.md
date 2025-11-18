@@ -46,12 +46,12 @@ class Article {
         return content;
     }
 
-    // Save current state to memento
+
     public ArticleMemento save() {
         return new ArticleMemento(content);
     }
 
-    // Restore state from memento
+    
     public void restore(ArticleMemento memento) {
         this.content = memento.getContent();
     }
@@ -92,19 +92,17 @@ public class ArticleManager {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Read number of versions
+        
         int n = Integer.parseInt(sc.nextLine());
         ArticleHistory history = new ArticleHistory();
         Article article = new Article("");
 
-        // Read and save each version
         for (int i = 0; i < n; i++) {
             String content = sc.nextLine();
             article.setContent(content);
             history.saveVersion(article);
         }
 
-        // Read version index to restore (0-based)
         int restoreIndex = Integer.parseInt(sc.nextLine());
         ArticleMemento memento = history.getVersion(restoreIndex);
         if (memento != null) {
@@ -127,6 +125,7 @@ public class ArticleManager {
 
 ## RESULT:
 The program successfully demonstrates the Memento Pattern, allowing the user to save, view, and restore different versions of an article.
+
 
 
 
